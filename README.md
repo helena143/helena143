@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Helena!
 
-<!--
-**helena143/helena143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Sobre mim  
+🎓 Tenho 15 anos e estou estudando **Desenvolvimento de Sistemas**.  
+📚 Atualmente, estou aprendendo **HTML e CSS** para criar páginas web incríveis.  
+🚀 Sempre em busca de aprender mais sobre tecnologia e desenvolvimento!  
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias e Ferramentas  
+- 🌐 HTML, CSS  
+- 📌 Em breve: JavaScript, Git e mais!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Como me encontrar  
+🔗 Me siga no GitHub para acompanhar meus projetos!  
+
+---
+
+✨ *"A jornada do aprendizado nunca termina!"*  
